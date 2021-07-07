@@ -1,4 +1,4 @@
-# Qualitative Analysis of ODEs [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####)
+# Qualitative Analysis of ODEs [![View Qualitative Analysis of ODEs on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/95513-qualitative-analysis-of-odes)
 **Curriculum Module**  
 _Created with R2021a. Compatible with R2021a and later releases._  
 
