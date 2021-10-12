@@ -55,7 +55,7 @@ An interactive lesson that explains how to find and classify equilibria of two d
 MATLAB, Symbolic Math Toolbox&trade;
 
 ## License ##
-The license for this module is available in the [LICENSE.TXT](license.txt) file in this GitHub repository.
+The license for this module is available in the [LICENSE.md](LICENSE.md) file in this GitHub repository.
 
 ## Educator Resources ##
 * [Featured Courseware](https://www.mathworks.com/academia/courseware/course-materials.html)
