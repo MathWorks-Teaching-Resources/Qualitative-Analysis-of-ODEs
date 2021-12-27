@@ -2,7 +2,7 @@
 **Curriculum Module**  
 _Created with R2021a. Compatible with R2021a and later releases._  
 
-<img src="https://user-images.githubusercontent.com/81383420/124817426-c9fe1780-df37-11eb-9b4b-8ddca7011e26.png" width="500">
+<img src="https://user-images.githubusercontent.com/81383420/147503475-4d938a88-4956-4de8-9f8a-d40bbfa6f66f.png" width="500">
 
 ## Description ##
 This curriculum module teaches qualitative analysis of ordinary differential equations (ODEs) using interactive [live scripts](https://www.mathworks.com/products/matlab/live-editor.html) and [MATLAB&reg; apps](https://www.mathworks.com/products/matlab/app-designer.html). The first two scripts consider first order ODEs. In these scripts, students draw solutions on a slope field, identify and classify equilibria, and draw phase line portraits. In the second half of the module, students analyze systems of two autonomous ODEs. In this part, students create phase plane portraits, solve for equilibria, and classify equilibria of linear systems by examining the eigenvalues of the coefficient matrix. Throughout the module, students apply the mathematical tools to study an energy balance climate model and a mass-spring-damper model.
@@ -47,7 +47,7 @@ An interactive lesson that explains how to find and classify equilibria of two d
 
 **Learning Goals:**
 - Find equilibria of a second order ODE system
-- Compute the trace, determinant, and eigenvalues of the coefficient matrix of a linear ODE system
+- Compute the eigenvalues of the coefficient matrix of a linear ODE system
 - Classify equilibria as nodes, saddles, spirals, or centers
 - Categorize the behavior of the mass-spring-damper model by analyzing its coefficient matrix
 
