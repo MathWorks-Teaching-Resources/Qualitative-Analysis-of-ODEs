@@ -53,32 +53,34 @@ MATLAB® and Symbolic Math Toolbox™ are used throughout.
 ## [**SlopeFields.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Qualitative-Analysis-of-ODEs&project=ODE_Analysis.prj&file=SlopeFields.mlx) 
 |  | **In this script, students will...** | **Applications**  |
 | :-- | :-- | :-- |
-| <img src="Images/drawnSolutionV2.png" width="171" alt="drawnSolutionV2.png"> |<br>-  classify ODEs as autonomous or non-autonomous <br>-  describe how a slope field is generated <br>-  draw ODE solutions through the slope field by hand <br>-  explain the physical meaning of terms in an energy balance climate model <br>-  plot solutions of the energy balance climate model | Energy balance model<img src="Images/radiation_reflection.png" width="171" alt="radiation_reflection.png">  |
+| <img src="Images/drawnSolutionV2.png" width="250" alt="drawnSolutionV2.png"> |<br>-  classify ODEs as autonomous or non-autonomous <br>-  describe how a slope field is generated <br>-  draw ODE solutions through the slope field by hand <br>-  explain the physical meaning of terms in an energy balance climate model <br>-  plot solutions of the energy balance climate model | Energy balance model<img src="Images/radiation_reflection.png" width="171" alt="radiation_reflection.png">  |
 
 <a name="H_268831C4"></a>
 ## [**Equilibria1D.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Qualitative-Analysis-of-ODEs&project=ODE_Analysis.prj&file=Equilibria1D.mlx) 
 |  | **In this script, students will...** | Application  |
 | :-- | :-- | :-- |
-| <img src="Images/EBMSlopeField.png" width="171" alt="EBMSlopeField.png"> |<br>-  solve for equilibria of autonomous first order ODEs <br>-  classify equilibria as stable, unstable, or semi-stable <br>-  draw phase line portraits of autonomous ODEs and relate them to the slope field <br>-  find the equilibria of the energy balance climate model <br>-  describe the real-world meaning of the climate model equilibria | Energy balance model<img src="Images/radiationV2.png" width="171" alt="radiationV2.png">  |
+| <img src="Images/EBMSlopeField.png" width="250" alt="EBMSlopeField.png"> |<br>-  solve for equilibria of autonomous first order ODEs <br>-  classify equilibria as stable, unstable, or semi-stable <br>-  draw phase line portraits of autonomous ODEs and relate them to the slope field <br>-  find the equilibria of the energy balance climate model <br>-  describe the real-world meaning of the climate model equilibria | Energy balance model<img src="Images/radiationV2.png" width="171" alt="radiationV2.png">  |
 
 <a name="H_6E660262"></a>
 ## [**PhasePlanes.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Qualitative-Analysis-of-ODEs&project=ODE_Analysis.prj&file=PhasePlanes.mlx) 
 |  | **In this script, students will...** | Application  |
 | :-- | :-- | :-- |
-| <img src="Images/pp1.png" width="171" alt="pp1.png"> |<br>-  write a second order ODE as a first order ODE system <br>-  describe how a phase plane is generated <br>-  relate solutions plotted on the phase plane to time series solution plots <br>-  compare behaviors of the mass-spring-damper model under variations in the damping coefficient | <img src="Images/pendulum3.jpeg" width="117" alt="pendulum3.jpeg">  |
+| <img src="Images/pp1.png" width="220" alt="pp1.png"> |<br>-  write a second order ODE as a first order ODE system <br>-  describe how a phase plane is generated <br>-  relate solutions plotted on the phase plane to time series solution plots <br>-  compare behaviors of the mass-spring-damper model under variations in the damping coefficient | <img src="Images/pendulum3.jpeg" width="117" alt="pendulum3.jpeg">  |
 
 <a name="H_39CA0E52"></a>
 ## [**LinearPhasePlaneAnalysis.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Qualitative-Analysis-of-ODEs&project=ODE_Analysis.prj&file=LinearPhasePlaneAnalysis.mlx) 
 |  | **In this script, students will...** | Application  |
 | :-- | :-- | :-- |
-| <img src="Images/ClassifyingSpiralsCenters.png" width="171" alt="ClassifyingSpiralsCenters.png"> |<br>-  find equilibria of a second order ODE system <br>-  compute the eigenvalues of the coefficient matrix of a linear ODE system <br>-  classify equilibria as nodes, saddles, spirals, or centers <br>-  categorize the behavior of the mass-spring-damper model by analyzing its coefficient matrix | <img src="Images/mass_spring_damper.jpeg" width="165" alt="mass_spring_damper.jpeg">  |
+| <img src="Images/ClassifyingSpiralsCenters.png" width="220" alt="ClassifyingSpiralsCenters.png"> |<br>-  find equilibria of a second order ODE system <br>-  compute the eigenvalues of the coefficient matrix of a linear ODE system <br>-  classify equilibria as nodes, saddles, spirals, or centers <br>-  categorize the behavior of the mass-spring-damper model by analyzing its coefficient matrix | <img src="Images/mass_spring_damper.jpeg" width="165" alt="mass_spring_damper.jpeg">  |
 
 <a name="H_2371D2B7"></a>
 # Related Courseware Modules
 <a name="H_868F5748"></a>
 ## [Phase Plane and Slope Field](https://www.mathworks.com/matlabcentral/fileexchange/91705-phase-plane-and-slope-field-apps) 
-| <img src="Images/pp2.png" width="171" alt="pp2.png"> | **Available on:**[<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/91705-phase-plane-and-slope-field-apps) *(edit hyperlink accordingly)*[<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field) *(edit hyperlink accordingly)*[GitHub](https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field) *(edit hyperlink accordingly)*  |
-| :-- | :-- |
+| **Phase Plane App** | **Slope Field App** | **Available on:** |
+| :-- | :-- | :-- |
+| <img src="Images/pp2.png" width="270" alt="phase plane screenshot"> | <img src="https://user-images.githubusercontent.com/81383420/117192143-60cf1c00-adaf-11eb-97f3-f7ae9320ef54.png" width="250" alt="slope field screenshot"> | [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/91705-phase-plane-and-slope-field-apps) <br>[<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field) <br>[GitHub](https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field)|
+
 
 
 Or feel free to explore our other [modular courseware content](https://www.mathworks.com/matlabcentral/fileexchange/?q=tag%3A%22courseware+module%22&sort=downloads_desc_30d).
