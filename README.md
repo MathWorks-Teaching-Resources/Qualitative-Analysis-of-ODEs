@@ -5,6 +5,7 @@
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/95513-qualitative-analysis-of-odes) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Qualitative-Analysis-of-ODEs&project=ODE_Analysis.prj&file=README.mlx)
 
 [![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Qualitative-Analysis-of-ODEs/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Qualitative-Analysis-of-ODEs)
+
 **Curriculum Module**
 
 _Created with R2021a. Compatible with R2024a and later releases._
